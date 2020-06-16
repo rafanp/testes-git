@@ -7,6 +7,57 @@ Treinando os comandos de usabilidade da ferramenta
 
 ## Comandos úteis
 
+
+git init
+
+git add "nome" : exemplo git add index.html
+
+git add .      — adiciona todos arquivos
+
+git commit -m "added landing page"
+
+git commit -am "comentario"    — adiciona e já atualiza
+
+git log
+
+git status
+
+git branch    — lista as branchs
+
+### Criar uma branch
+
+git branch feature/cart
+
+git checkout feature/cart
+
+### Criar novo arquivo
+
+touch cart.html
+
+### Voltar para linha do tempo principal
+
+git checkout "master"
+
+### Olhar as linhas do tempo
+
+git checkout
+
+### Verificar os itens no folder
+
+ls -al
+
+git merge feature/cart     —-   precisa estar em alguma outra branch, por exemplo na master
+
+git branch -D feature/cart   —  deletar a branch
+
+### Subindo os arquivos na nuvem
+
+git remote add origin [https://github.com/rafanp/testes-git](https://github.com/rafanp/testes-git)
+
+git remote -v
+
+git push -u origin master
+
 OS X & Linux:
 
 ```sh
