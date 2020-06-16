@@ -1,11 +1,11 @@
 # GIT E GITHUB
-> Short blurb about what your product does.
+> Testes de funcionalidades do git e github
 
-One to two paragraph statement about your product and what it does.
+Treinando os comandos de usabilidade da ferramenta
 
 ![](github.png)
 
-## Installation
+## Comandos úteis
 
 OS X & Linux:
 
