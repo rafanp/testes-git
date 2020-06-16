@@ -7,7 +7,7 @@ Treinando os comandos de usabilidade da ferramenta
 
 ## Comandos úteis
 
-
+```sh
 git init
 
 git add "nome" : exemplo git add index.html
@@ -23,6 +23,7 @@ git log
 git status
 
 git branch    — lista as branchs
+```
 
 ### Criar uma branch
 
@@ -58,32 +59,14 @@ git remote -v
 
 git push -u origin master
 
-OS X & Linux:
 
-```sh
-npm install my-crazy-module --save
-```
 
-Windows:
 
-```sh
-edit autoexec.bat
-```
 
-## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
+# Templates para o README
+_Algumas sugestões de itens a serem adicionados no Readme_
 
 ## Release History
 
